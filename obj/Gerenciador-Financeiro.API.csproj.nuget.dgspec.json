@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.API\\Gerenciador-Financeiro.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.API\\Gerenciador-Financeiro.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.API\\Gerenciador-Financeiro.API.csproj",
+        "projectName": "Gerenciador-Financeiro.API",
+        "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.API\\Gerenciador-Financeiro.API.csproj",
+        "packagesPath": "C:\\Users\\kellt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kellt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Business\\Gerenciador-Financeiro.Business.csproj": {
+                "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Business\\Gerenciador-Financeiro.Business.csproj"
+              },
+              "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj": {
+                "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj"
+              },
+              "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Infra\\Gerenciador-Financeiro.Infra.csproj": {
+                "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Infra\\Gerenciador-Financeiro.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Devart.Data": {
+              "target": "Package",
+              "version": "[5.0.2858, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Google.Cloud.Firestore": {
+              "target": "Package",
+              "version": "[1.1.0-beta01, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Business\\Gerenciador-Financeiro.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Business\\Gerenciador-Financeiro.Business.csproj",
+        "projectName": "Gerenciador-Financeiro.Business",
+        "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Business\\Gerenciador-Financeiro.Business.csproj",
+        "packagesPath": "C:\\Users\\kellt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kellt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj": {
+                "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj"
+              },
+              "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Infra\\Gerenciador-Financeiro.Infra.csproj": {
+                "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Infra\\Gerenciador-Financeiro.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj",
+        "projectName": "Gerenciador-Financeiro.Domains",
+        "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj",
+        "packagesPath": "C:\\Users\\kellt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kellt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Google.Cloud.Firestore": {
+              "target": "Package",
+              "version": "[1.1.0-beta01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Infra\\Gerenciador-Financeiro.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Infra\\Gerenciador-Financeiro.Infra.csproj",
+        "projectName": "Gerenciador-Financeiro.Infra",
+        "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Infra\\Gerenciador-Financeiro.Infra.csproj",
+        "packagesPath": "C:\\Users\\kellt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kellt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj": {
+                "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\Gerenciador-Financeiro\\Back-End\\Gerenciador-Financeiro\\Gerenciador-Financeiro.Domains\\Gerenciador-Financeiro.Domains.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FireSharp": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Google.Cloud.Firestore": {
+              "target": "Package",
+              "version": "[1.1.0-beta01, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
