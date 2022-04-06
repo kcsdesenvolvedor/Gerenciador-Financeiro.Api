@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gerenciador-financeiro-d0bd6",
+  "private_key_id": "0cee639c992ec06876ce2e505e909bc69c71c85a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDElue6P0FLA8bY\nMqis4N9xJ2ukRBOT3QEwf5p1qVLjIgqfS1EjNMa7Dv7I0AgZf+/1w/WeR1ya/UZi\nawD9/UpRUySVt7CP8vzWSigW4i1tHvKH7dGZhSY02KNvDiYZUbm3lXCR8K50TfPL\nptFx7NYqTlZ/PRgN7qHF8FLacj75DvBWK0HsFm6V9DYo6XuBJJcjkKbAMZbJaHfg\ndQCOrEjwpE+F8F4W6lI0r89xp5ERPtQwwtv9cxdn48p1LGnHiSS/sNp2ZddgyvbS\nPLRnXDHJz09ng4e0TtyT73eKwwf4mnY1JaNth/1xvFBYa/YB98Gmj1fFqHTR93HC\nq1r9OnbFAgMBAAECggEAMO4+jyTfY4R1Iaq6QQ1XkBp3uFMZbFw9x4x7LX4Pm2kF\nq9BbSaABNt3snJ7q5S3q1AkKQXMRoaIYurZXcOBydvtyx7EIyUt5kvyyLb/t/pMN\nWrfey49QiybAxwuGgBbPWtpfQnPdeCVO4QmMaAbC55TIArN6IT2cFmBSvvxgoCyg\nBYRsF4dhe1J8ju9d+0AoFBgoHYRas3sFiBnlJOTQw1XEZ6l6RQErwi+osq4L/3fv\nrpSL4MvqdPOi46vomt533CFH3Xd0ye65rdZC2iZoxe/g8ShUgKfWgmPDTuTepMS+\nAkypDN40MbRd6ifJIdAXrj67rzvNa4syJdCJRp1TAQKBgQDjj5xVCre1xIvgpssy\nJcIiGiSiZJxXQXF2BEvLxicQuk641Mc/qvbcH9Gn1OO7Tc3YH6LIxSrhDOYcx7mn\nXoq87oGzSk8g3IZY010YVahUs3TRu6MtgJMVKFw0RtJUNZgv9oz5I20nYprd0wWD\nxA6B3UtoGnCsV10/iJevIqTKeQKBgQDdKGs+TSoZk3LBtikh5IQtqB2bTrTiP67M\nk7oCtQd0GRqVWe911Fsnrz4oE+7rhdv30kh20vcOCipgmYEheNPtHL+ZsfAB85PI\nnJFBKcnqM7jsZEq7PPTK5pSN7U6HKkjqm1ZSQPOFlPXC5bwFXQdbr00SOjq5K/9N\nNGKINeH7rQKBgAPgAi2AjThPLIKa1IL6GaAzCcSqKe9icegsko3ZxfiG86g6F1qC\nMsn00MEm4unhnUu83izFDsHeUlzTGdo7xekJtrOy5D4PA0qn7sHnU4J9u9OGenTf\n56FImqlZO2Ortfe7HxNvAwDUsQZt/X4M7KJRfmM7cAe/RRs73DljQaMhAoGBALil\nL2zTxiuWZMCA0zS98vGfpCBwBSvE2a9qQ2pRNIjlEMHTVc993iFy+aVChz7TAwWU\n5vV2S9jH+fuvDhYhKGeWkg3Dd0xZznA28DuEpVVJm8KaNZ7AVO02uJ8Km37Ueg6O\nZPLF0cwcw1fWsTWVJziQUvu97BuANWaDLyTkP+n9AoGBAK/52pkQ65uEXqx9WS5T\nJ9Tygikfkbnx3RDOUpaL2C1jmMqCU3OPf6FmtxBboK+sUfShKlOLZ6stuEZrEZHw\nOyXzg/4lTRKs/a7RoQFI+kHFJ3nw+Iuq5t5ESUoVoAXeTKU3R2O9Yf2YQj99pebe\nKvqUMQsw4SLaMM1wYl2rl3UD\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vqhwj@gerenciador-financeiro-d0bd6.iam.gserviceaccount.com",
+  "client_id": "107827846591496785371",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vqhwj%40gerenciador-financeiro-d0bd6.iam.gserviceaccount.com"
+}
